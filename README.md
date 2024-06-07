@@ -3,9 +3,9 @@ SELFCHECKOUT : A mobile application used for buying retail store products by sca
 Referred from : https://github.com/iamroshanjha/QuicKart
 
 Technoloogy used: 
-Java and xml on android studio
-Firebase Database
-ZXing Barcode scanner 
+Java and xml on android studio,
+Firebase Database,
+ZXing Barcode scanner ,
 RazorPay
 
 ![image](https://github.com/pratik096096/SelfCheckout/assets/145003488/73696309-e897-495d-b341-b60511a55e29)
