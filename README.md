@@ -8,6 +8,7 @@ Firebase Database,
 ZXing Barcode scanner ,
 RazorPay
 
+Try the App on your phone :  https://drive.google.com/file/d/1LMIoWOKIWXOs90bqJSWXAAuoaRgY_hTs/view?usp=sharing
 ![image](https://github.com/pratik096096/SelfCheckout/assets/145003488/73696309-e897-495d-b341-b60511a55e29)
 ![image](https://github.com/pratik096096/SelfCheckout/assets/145003488/96417c7f-fc5f-430d-aa05-a2406423bec8)
 ![image](https://github.com/pratik096096/SelfCheckout/assets/145003488/48a7de31-15f1-4146-b83c-00169cdcfb27)
