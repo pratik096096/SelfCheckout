@@ -1,6 +1,6 @@
 # SelfCheckout
 SELFCHECKOUT : A mobile application used for buying retail store products by scanning the product barcode and adding it into the cart there by moving to payment page and checkout without needing to wait in long queue.  
-Referred from : https://github.com/iamroshanjha/QuicKart
+https://drive.google.com/file/d/18HyRE8Fw2RTjGp1wvOV_w7E4_6UeDVwS/view?usp=sharing
 
 Technoloogy used: 
 Java and xml on android studio,
